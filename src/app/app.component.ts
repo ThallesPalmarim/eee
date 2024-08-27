@@ -58,8 +58,8 @@ export class AppComponent {
     {
       photo: 'assets/EEE_Lucas.jpeg',
       name: 'Lucas Malta',
-      nickname: 'Lucas',
-      description: ''
+      nickname: 'Big Malta',
+      description: 'É galera, esse é o Malta, nascido em 1995, sempre foi fã do anime até a 6° geração, mas tendo a 3° geração como a sua favorita. Devido a sua paixão pelo tipo planta, ele tem Sceptile como seu pokémon favorito (Apesar da sua alta semelhança com Snorlax). Sempre gostou da franquia de Pokémon, mas só agora teve a oportunidade de entrar na comunidade competitiva, e com isso pronto para ser um treinador pokémon de sucesso, buscando melhorar a cada dia'
     },
     {
       photo: 'assets/EEE_PaiBraz.jpg',
