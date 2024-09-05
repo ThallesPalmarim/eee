@@ -45,15 +45,15 @@ export class AppComponent {
     },
     {
       photo: 'assets/EEE_Falafel.jpg',
-      name: 'Rafael',
+      name: 'Rafael Cavalcanti',
       nickname: 'Falafel',
-      description: ''
+      description: 'Desde meus 3 anos jogando Pokemon, sempre fui apaixonado pelo jogo e estratégias possíveis para montar um time com pecas pouco visadas. Desde Maio de 2023, jogo Pokemon competitivamente, com o sonho de competir em um Mundial'
     },
     {
       photo: 'assets/EEE_Falcon.jpeg',
       name: 'Francisco',
       nickname: 'Falcon',
-      description: ''
+      description: 'Jogo Pokémon desde 2000 que experimentei Pokémon Blue pela primeira vez. No final do 2013, começou  minha aventura competitiva com as versões X e Y,  porque pude conhecer muitos jogadores de VG na minha cidade. No Fevereiro 2014, participei no meu primer torneio (não oficial) na cidade de Lima com 120 pessoas aproximadamente e pude ficar em segundo, usando Mega Heracross e um equipo com Tailwind e TrickRoom ao mesmo tempo, Heracross desde esse momento converteu-se no meu favorito.'
     },
     {
       photo: 'assets/EEE_Lucas.jpeg',
@@ -71,19 +71,19 @@ export class AppComponent {
       photo: 'assets/EEE_Palmarim.jpeg',
       name: 'Thalles Palmarim (C)',
       nickname: 'Palmarim',
-      description: ''
+      description: 'Player de Pokémon desde 99, nascido em 1992. Sempre apaixonado pelos jogos e os desafios, jogo singles desde BW, parei em USUM, e iniciei VGC em janeiro de 24. Estar no time já é um sonho, então que o título de mestre Pokémon seja alcançado junto do time, sempre evoluindo e aprendendo. Meu pokémon preferido é o Dragonite, mas amo todos os Dragon do jogo.'
     },
     {
       photo: 'assets/EEE_Shaggy.jpg',
       name: 'Pedro Soares',
       nickname: 'Shaggy',
-      description: ''
+      description: 'Meu nome é Pedro Rodrigues Soares, tenho 27 anos, jogo VGC desde 2018 e sou de Campinas. Minha primeira experiência com Pokémon foi quando joguei Pokemon Emerald no GBA em 2004. Já ganhei um PC e um MSS em Brasília. Tive bons resultados em torneios grandes. Meu objetivo nessa temporada é chegar o mais longe possível ou finalmente poder jogar o mundial.Meu pokémon favorito é o Mimikyu. Meu objetivo com o time é evoluir a cada dia, seja nas vitórias como nas derrotas'
     },
     {
       photo: 'assets/EEE_Vivian.jpg',
       name: 'Vivian',
       nickname: 'Vivian',
-      description: ''
+      description: 'Eu sempre gostei de pokemon desde criança,  meu sonho era ter um game boy e poder ir aos torneios.  Fui ao mundial de 2016 e 2017, mas agora  só vou denovo se eu estiver muito bem no meta e se  o dólar estiver mais baixo. Além de jogar pokemon competitivo,  tenho muitas pelúcias,  jogo pokemon go , pokemon masters,  pokemon shuffle,  e até  pokemon café remix.  Gosto de colecionar pokemons shinies.'
     },
     {
       photo: 'assets/EEE_Brendu.jpeg',
@@ -107,13 +107,13 @@ export class AppComponent {
       photo: 'assets/EEE_Juan.jpeg',
       name: 'Juan José',
       nickname: 'Juan',
-      description: ''
+      description: 'Meu nome é Juan Jose, meu apelido é Yuanyo :) Tenho 29 anos e jogo Pokémon competitivo há 2 anos, mas jogo Pokémon desde criança. Meu Pokémon favorito é o Umbreon.'
     },
     {
-      photo: 'assets/EEE_.jpg',
+      photo: 'assets/EEE_hunterpain.jpeg',
       name: 'Neto (C)',
       nickname: 'Hunter Pain',
-      description: ''
+      description: 'Me chamo Neto Oliveira, meu nickname de jogo é HunTerPaiN, comecei a jogar pokémon competitivo singles em 2016 em sun e moon, me interessei no vgc após ver o LATAM de 2017, e comecei a jogar campeonatos de VGC em 2020 com a chegada de sword e Shield, desde então participarei de alguns torneios presenciais e o mais icônico foi o que fui campeão usando Charizard na chuva'
     },
   ]
 }
