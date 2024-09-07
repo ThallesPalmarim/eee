@@ -1,0 +1,31 @@
+name: Deploy Angular App to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Ou o branch onde você faz as atualizações
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'  # Ou a versão do Node.js que você está usando
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Build project
+      run: npm run build -- --configuration production --base-href="https://thallespalmarim.github.io/eee/"
+
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@4.1.7
+      with:
+        branch: gh-pages
+        folder: dist/eee
