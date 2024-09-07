@@ -6,6 +6,7 @@ import { QuemSomosComponent } from './quem-somos/quem-somos.component';
 import { NossosTitulosComponent } from './nossos-titulos/nossos-titulos.component';
 import { CardComponent } from './card/card.component';
 import { CommonModule } from '@angular/common';
+import { FinalComponent } from './final/final.component';
 
 @Component({
   selector: 'app-root',
@@ -17,7 +18,8 @@ import { CommonModule } from '@angular/common';
     QuemSomosComponent,
     NossosTitulosComponent,
     CardComponent,
-    CommonModule
+    CommonModule, 
+    FinalComponent
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
@@ -65,7 +67,7 @@ export class AppComponent {
       photo: 'assets/EEE_PaiBraz.jpg',
       name: 'Gustavo Braz (C)',
       nickname: 'Pai Braz',
-      description: ''
+      description: `Carioca, 39 anos, natural de Niterói-RJ. <p>Comecei meu primeiro contato com pokemon em 1999 com 13 anos no Cartoon Network e jogando Pokémon RBY no disquete que vendia na banca. Meu primeiro jogo foi Pokémon Snap em 2000 que meu pai comprou sem querer e depois foi Pokémon Red no Game Boy. O competitivo comecei em 2005 na antiga LOP-RJ joguei por 1 ano e pouco parando por causa de trapaça nos torneios de várzea. Nesse tempo minha irmã Suzana Braz foi campeã da DE4 2006 BR (Brasileiro) e meu cunhado Tiago Calmon ganhou DE4 2005.</p> <p> Durante 4 anos fiquei sem jogar por ocupado com Cosplay e retornei em 2011 sendo Campeão do Ranking LOP-RJ daquele ano. No ano seguinte me mudei para SP e comecei a jogar os torneios VGC12 realizado pelos organização da LOP-SP.</p> <p> Em 2015 a América Latina teve vagas para Pokémon Worlds Championship de Boston. Os 18 primeiro se classificam. Tive a melhor temporada da minha vida. Fui Campeão no Ranking VGC Brasil e 9°Lugar Ranking da América Latina com 300 CPs. Ganhei 6 Premier Challenge em cidades diferentes como Belo Horizonte, Curitiba, Londrina, Arapongas e Sorocaba duas vezes. O meu triunfo foi ser 2°Vice-Campeão Regional de Buenos Aires. Me tornei o primeiro BR classificado para Mundial.</p> <p>Participei de 3 Mundiais 2015, 2018 e 2022. Além disso, me classifique para Mundial 2016 e 2019. No entanto não fui para esses mundiais por problemas pessoais e financeiros. Por outro lado participei da Seleção Brasileira de VGC 2015, 2016, 2017 e 2020 na Copa América com amistosos.</p> <p>Desde 2017 meu foco é o Extreme Evolution eSports com meus próprio companheiros e jogar no competitivo VGC presencial até 2030.</p>`
     },
     {
       photo: 'assets/EEE_Palmarim.jpeg',
@@ -98,10 +100,10 @@ export class AppComponent {
       description: ''
     },
     {
-      photo: 'assets/EEE_.jpg',
+      photo: 'assets/EEE_diego.jpeg',
       name: 'Diego',
       nickname: 'ogeid',
-      description: ''
+      description: 'Oi, meu nome é Diego Pradel Seixas, jogo pokemon desde a gen 3, comecei a me interessar pelo competitivo na gen 6, mas só migrei pro VGC na gen 8'
     },
     {
       photo: 'assets/EEE_Juan.jpeg',
