@@ -1,0 +1,5 @@
+/* card.component.css */
+.modal {
+    overflow-y: auto; /* Permite rolar o conteúdo interno do modal */
+  }
+  
