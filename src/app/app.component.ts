@@ -97,7 +97,7 @@ export class AppComponent {
       photo: 'assets/EEE_MeninoScizor.jpeg',
       name: 'Luis Felipe',
       nickname: 'Scizor',
-      description: ''
+      description: `<p>Luis Felipe, com apenas 17 anos, é um jovem promissor e multifacetado que já está se destacando em várias áreas. Apaixonado por Pokémon, ele se dedica intensamente ao jogo e sonha em competir no campeonato mundial, onde almeja a vitória. Além de seu envolvimento no universo Pokémon, Luis Felipe também pratica capoeira.</p> <p>Atualmente, ele está cursando Ti no ITB e almeja entrar em uma universidade também, preparando-se para um futuro brilhante na área de TI. Com o intuito de algum dia ter o estabelecimento financeiro, para poder participar e ganhar o mundial de Pokemon.</p>`
     },
     {
       photo: 'assets/EEE_diego.jpeg',
