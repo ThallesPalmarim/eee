@@ -111,6 +111,12 @@ export class AppComponent {
       nickname: 'Falafel',
       description: 'Desde meus 3 anos jogando Pokemon, sempre fui apaixonado pelo jogo e estratégias possíveis para montar um time com pecas pouco visadas. Desde Maio de 2023, jogo Pokemon competitivamente, com o sonho de competir em um Mundial'
     },
+    {
+      photo: 'assets/EEE_Max.jpeg',
+      name: 'Rodrigo',
+      nickname: 'StoneStormVGC',
+      description: 'Meu nome é Rodrigo mas você provavelmente me conhece melhor como "Max Rohckfall" ou "StoneStormVGC" (meu apelido atual), tenho 25 anos e sou um grande fã de Pokémon desde que vi o anime na TV, tendo a oportunidade de jogar XY como meus primeiros jogos de pokémon, para posteriormente começar a jogar vgc competitivo em SwSh durante a pandemia do covid-19. Por mais que quem me conhece diga que jogo com equipes de metagame (em parte verdade), gosto de dar meu toque pessoal na hora de formar equipes, sendo o melhor exemplo ter me classificado para o WCS 2024 quando somei a maior parte dos meus Championship Points com uma equipe de frosmoth, um dos meus pokémons favoritos :3'
+    },
     
     {
       photo: 'assets/EEE_Vivian.jpg',
